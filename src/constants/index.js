@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/P1-BusFinder.png";
 import project2 from "../assets/projects/P2-PawShelter.png";
 import project3 from "../assets/projects/P3-Credaphy.png";
-import project4 from "../assets/projects/P4-portfolio.png";
+import project4 from "../assets/projects/P4-Portfolio.png";
 export const HERO_CONTENT = `I am a passionate fronend developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like PHP, MySQL. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 export const ABOUT_TEXT = `An experienced and dedicated college student currently looking for an internship and successfully completed a one month Web Development Internship. I have wide experience in collaborative environments focused on the delivery of high-quality digital solutions based upon my web development skills. Familiar with HTML, CSS, JavaScript, Bootstrap, and ReactJS, I am able to meet technical specifications while keeping pace with deadlines to achieve deliverables of the project. I am willing to develop responsive and scalable web applications that contribute to the enhancement of the user experience and, therefore, to the attainment of the organization's mission. I believe that, by applying my technical skills and the sense of teamwork that I possess, I can enhance speed in delivering digital projects and work out successful solutions aligned with organizational objectives.`;
